@@ -1,0 +1,19 @@
+:root {
+  font-size: 16px;
+}
+.fill {
+  min-height: 100%;
+  height: 100%;
+}
+html,
+body {
+  height: 100%;
+}
+$theme-colors: (
+  "primary": #ade498,
+  "secondary": #7fdbda,
+  "yellow": #ede682,
+  "success": #febf63,
+  "black": #030502,
+  "white": #ffffff,
+);
